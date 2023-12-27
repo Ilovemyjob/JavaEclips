@@ -16,7 +16,9 @@ public class C1_Queue01 {
 		k1.add("C");
 		k1.add("M");
 		k1.add("A");
-		
+
+
+
 		System.out.println(k1); // [A, C, M, D]
 		// Queue (kuyruk) yapisi geregi insertion order'a gore siralama yapmasi beklenir
 		// Ancak constructor olarak PriorityQueue sectigimiz icin Java tarafindan belirlenen
